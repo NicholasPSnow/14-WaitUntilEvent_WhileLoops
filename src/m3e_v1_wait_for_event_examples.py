@@ -114,7 +114,6 @@ def demonstrate_wait_for_sentinel():
         print('The square root of', number, 'is', math.sqrt(number))
         print()
         total = total + math.sqrt(number)
-
     print('The total of the square roots is', total)
 
 
